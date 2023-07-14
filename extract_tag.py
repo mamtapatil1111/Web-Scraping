@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 # In[2]:
 
 
-url = 'https://www.ratemyprofessors.com/ShowRatings.jsp?tid=941931'
+url = ' ' # Add the url here.
 
 
 # Step 3: Making a request to the website using the requests library.
